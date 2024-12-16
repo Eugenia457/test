@@ -18,3 +18,5 @@
   2. Ещё один пункт
  
   А это математическая формула $
+
+[Это сайт нашего университета] (https://pay.mos.ru/mospaynew/newportal/catalog?category=118570457551&page=1)
